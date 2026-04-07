@@ -28,7 +28,7 @@ const profile = {
   location: "Santiago, Chile",
   email: "joss3k@gmail.com",
   phone: "+56 9 4660 6196",
-  github: "KreamosDev",
+  github: "josehernandezgit",
   linkedin: "https://www.linkedin.com/in/jos%C3%A9-rafael-hern%C3%A1ndez-tinschmidt-2b680868/",
   cvPath: "/Jose-Rafael-Hernandez-CV.pdf",
 };
@@ -115,8 +115,8 @@ const localeLabels = {
           stack: ["Next.js", "TypeScript", "E-commerce"],
         },
         {
-          name: "GitHub / KreamosDev",
-          href: "https://github.com/KreamosDev",
+          name: "GitHub / josehernandezgit",
+          href: "https://github.com/josehernandezgit",
           description:
             "Perfil técnico para mostrar código, experimentación y piezas de portafolio público.",
           stack: ["GitHub", "Portafolio", "Código"],
@@ -130,7 +130,7 @@ const localeLabels = {
           value: "jose-rafael-hernandez-tinschmidt",
           href: "https://www.linkedin.com/in/jos%C3%A9-rafael-hern%C3%A1ndez-tinschmidt-2b680868/",
         },
-        { label: "GitHub", value: "github.com/KreamosDev", href: "https://github.com/KreamosDev" },
+        { label: "GitHub", value: "github.com/josehernandezgit", href: "https://github.com/josehernandezgit" },
         { label: "CV", value: "Descargar PDF", href: "/Jose-Rafael-Hernandez-CV.pdf" },
       ],
     },
@@ -216,8 +216,8 @@ const localeLabels = {
           stack: ["Next.js", "TypeScript", "E-commerce"],
         },
         {
-          name: "GitHub / KreamosDev",
-          href: "https://github.com/KreamosDev",
+          name: "GitHub / josehernandezgit",
+          href: "https://github.com/josehernandezgit",
           description:
             "Perfil técnico para mostrar código y piezas de portafolio.",
           stack: ["GitHub", "Portafolio", "Código"],
@@ -231,7 +231,7 @@ const localeLabels = {
           value: "jose-rafael-hernandez-tinschmidt",
           href: "https://www.linkedin.com/in/jos%C3%A9-rafael-hern%C3%A1ndez-tinschmidt-2b680868/",
         },
-        { label: "GitHub", value: "github.com/KreamosDev", href: "https://github.com/KreamosDev" },
+        { label: "GitHub", value: "github.com/josehernandezgit", href: "https://github.com/josehernandezgit" },
         { label: "CV", value: "Download PDF", href: "/Jose-Rafael-Hernandez-CV.pdf" },
       ],
     },

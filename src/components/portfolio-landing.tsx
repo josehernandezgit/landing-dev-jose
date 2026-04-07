@@ -94,32 +94,32 @@ const localeLabels = {
       ],
       projects: [
         {
-          name: "ArriendoPay",
-          href: "https://arriendopay.com",
+          name: "Comeci Gift",
+          href: "https://comerca-gift.vercel.app",
           description:
-            "Proyecto publico orientado a experiencia digital y flujos de negocio, con foco en producto y ejecucion fullstack.",
-          stack: ["Next.js", "TypeScript", "UX", "Integraciones"],
+            "Gift shop online con catálogo dinámico, integración WhatsApp para pedidos y gestión de inventario en tiempo real.",
+          stack: ["Next.js", "TypeScript", "Tailwind", "WhatsApp API"],
         },
         {
-          name: "OrdenaMed",
-          href: "https://ordenamed.com",
+          name: "Sophies Petals",
+          href: "https://sophies-petals.vercel.app",
           description:
-            "Iniciativa SaaS enfocada en organizacion de documentos medicos, experiencia digital e informacion estructurada.",
-          stack: ["SaaS", "React", "Backend", "Structured information"],
+            "Landing page para negocio de flores con catálogo de arreglos, precios y contacto directo por WhatsApp.",
+          stack: ["Next.js", "TypeScript", "Tailwind"],
+        },
+        {
+          name: "OIS Cycles",
+          href: "https://ois-cycles.vercel.app",
+          description:
+            "Plataforma de venta de bicicletas y accesorios con catálogo online, carrito y gestión de pedidos.",
+          stack: ["Next.js", "TypeScript", "E-commerce"],
         },
         {
           name: "GitHub / KreamosDev",
           href: "https://github.com/KreamosDev",
           description:
-            "Perfil tecnico para mostrar codigo, experimentacion y futuras piezas publicas del portafolio.",
-          stack: ["GitHub", "Portfolio", "Code", "Open presence"],
-        },
-        {
-          name: "LinkedIn",
-          href: "https://www.linkedin.com/in/jos%C3%A9-rafael-hern%C3%A1ndez-tinschmidt-2b680868/",
-          description:
-            "Perfil profesional para networking, experiencia laboral y presencia publica de carrera.",
-          stack: ["LinkedIn", "Career", "Networking", "Professional profile"],
+            "Perfil técnico para mostrar código, experimentación y piezas de portafolio público.",
+          stack: ["GitHub", "Portafolio", "Código"],
         },
       ],
       contacts: [
@@ -195,32 +195,32 @@ const localeLabels = {
       ],
       projects: [
         {
-          name: "ArriendoPay",
-          href: "https://arriendopay.com",
+          name: "Comeci Gift",
+          href: "https://comerca-gift.vercel.app",
           description:
-            "Public project focused on digital experience and business workflows, with strong product thinking and fullstack execution.",
-          stack: ["Next.js", "TypeScript", "UX", "Integrations"],
+            "Gift shop online with dynamic catalog, WhatsApp integration for orders and real-time inventory management.",
+          stack: ["Next.js", "TypeScript", "Tailwind", "WhatsApp API"],
         },
         {
-          name: "OrdenaMed",
-          href: "https://ordenamed.com",
+          name: "Sophies Petals",
+          href: "https://sophies-petals.vercel.app",
           description:
-            "SaaS initiative focused on medical document organization, digital experience, and structured information.",
-          stack: ["SaaS", "React", "Backend", "Structured information"],
+            "Landing page for flower business with catalog of arrangements, pricing and direct WhatsApp contact.",
+          stack: ["Next.js", "TypeScript", "Tailwind"],
+        },
+        {
+          name: "OIS Cycles",
+          href: "https://ois-cycles.vercel.app",
+          description:
+            "Bicycle and accessories sales platform with online catalog, cart and order management.",
+          stack: ["Next.js", "TypeScript", "E-commerce"],
         },
         {
           name: "GitHub / KreamosDev",
           href: "https://github.com/KreamosDev",
           description:
-            "Technical profile to show code, experimentation, and future public portfolio pieces.",
-          stack: ["GitHub", "Portfolio", "Code", "Open presence"],
-        },
-        {
-          name: "LinkedIn",
-          href: "https://www.linkedin.com/in/jos%C3%A9-rafael-hern%C3%A1ndez-tinschmidt-2b680868/",
-          description:
-            "Professional profile for networking, work experience, and public career presence.",
-          stack: ["LinkedIn", "Career", "Networking", "Professional profile"],
+            "Technical profile to show code, experimentation and public portfolio pieces.",
+          stack: ["GitHub", "Portfolio", "Code"],
         },
       ],
       contacts: [

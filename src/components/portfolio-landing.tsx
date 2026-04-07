@@ -195,32 +195,32 @@ const localeLabels = {
       ],
       projects: [
         {
-          name: "Comeci Gift",
+          name: "Comecial Gift",
           href: "https://comerca-gift.vercel.app",
           description:
-            "Gift shop online with dynamic catalog, WhatsApp integration for orders and real-time inventory management.",
+            "Gift shop online con catálogo de regalos por categoría y contacto directo por WhatsApp.",
           stack: ["Next.js", "TypeScript", "Tailwind", "WhatsApp API"],
         },
         {
           name: "Sophies Petals",
           href: "https://sophies-petals.vercel.app",
           description:
-            "Landing page for flower business with catalog of arrangements, pricing and direct WhatsApp contact.",
+            "Florería con arreglos florales,envíos y contacto directo por WhatsApp.",
           stack: ["Next.js", "TypeScript", "Tailwind"],
         },
         {
           name: "OIS Cycles",
           href: "https://ois-cycles.vercel.app",
           description:
-            "Bicycle and accessories sales platform with online catalog, cart and order management.",
+            "Venta de bicicletas y accesorios con catálogo online y pedidos por WhatsApp.",
           stack: ["Next.js", "TypeScript", "E-commerce"],
         },
         {
           name: "GitHub / KreamosDev",
           href: "https://github.com/KreamosDev",
           description:
-            "Technical profile to show code, experimentation and public portfolio pieces.",
-          stack: ["GitHub", "Portfolio", "Code"],
+            "Perfil técnico para mostrar código y piezas de portafolio.",
+          stack: ["GitHub", "Portafolio", "Código"],
         },
       ],
       contacts: [
